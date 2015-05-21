@@ -9,3 +9,4 @@ project_page 'UNKNOWN'
 
 ## Add dependencies, if any:
 dependency 'razorsedge/network', '>= 3.4.0'
+dependency 'thias/sysctl', '>= 1.0.2'
